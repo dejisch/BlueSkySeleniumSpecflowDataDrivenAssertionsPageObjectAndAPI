@@ -53,6 +53,10 @@
               "target": "Package",
               "version": "[3.15.1, )"
             },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.10.1, )"
+            },
             "Selenium.Support": {
               "target": "Package",
               "version": "[3.141.0, )"

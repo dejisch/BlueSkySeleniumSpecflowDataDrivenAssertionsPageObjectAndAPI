@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace BlueSkyProjectDataDriven.Features
+namespace BlueSkySeleniumSpecflowWaitsDataDrivenAssertionsPageObjectAndAPI.Features
 {
     using TechTalk.SpecFlow;
     using System;

@@ -5,12 +5,12 @@ using global::TechTalk.SpecFlow;
 
 [GeneratedCode("SpecFlow", "3.1.82")]
 [SetUpFixture]
-public class BlueSkyProjectDataDriven_NUnitAssemblyHooks
+public class BlueSkySeleniumSpecflowWaitsDataDrivenAssertionsPageObjectAndAPI_NUnitAssemblyHooks
 {
     [OneTimeSetUp]
     public void AssemblyInitialize()
     {
-        var currentAssembly = typeof(BlueSkyProjectDataDriven_NUnitAssemblyHooks).Assembly;
+        var currentAssembly = typeof(BlueSkySeleniumSpecflowWaitsDataDrivenAssertionsPageObjectAndAPI_NUnitAssemblyHooks).Assembly;
 
         TestRunnerManager.OnTestRunStart(currentAssembly);
     }
@@ -18,7 +18,7 @@ public class BlueSkyProjectDataDriven_NUnitAssemblyHooks
     [OneTimeTearDown]
     public void AssemblyCleanup()
     {
-        var currentAssembly = typeof(BlueSkyProjectDataDriven_NUnitAssemblyHooks).Assembly;
+        var currentAssembly = typeof(BlueSkySeleniumSpecflowWaitsDataDrivenAssertionsPageObjectAndAPI_NUnitAssemblyHooks).Assembly;
 
         TestRunnerManager.OnTestRunEnd(currentAssembly);
     }
